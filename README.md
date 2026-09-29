@@ -3,13 +3,6 @@
 > **Task 2 · Full Stack Development Internship · Progree**  
 > A semantic, fully responsive single-page portfolio website built with pure HTML5, CSS3, and Vanilla JavaScript.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-
 ## Project Overview
 
 This project is a **single-page visual portfolio website** that showcases the professional profile of **Sobia Fayyaz** — a Junior SQA Engineer and Full Stack Developer. The application was built as part of **Task 2** of the Progree Full Stack Development Internship.
@@ -44,3 +37,5 @@ The site demonstrates:
 - **Font Awesome Icons** : Loaded via CDN for visual polish
 - **Clickable Contact Links** : Email, phone, and LinkedIn are all interactive
 
+Checkout the deployed project here.
+https://progree-internship-37czoey1n-sobiafayyazthaheem-4277.vercel.app/
