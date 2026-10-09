@@ -1,4 +1,4 @@
-# Sobia Fayyaz: Responsive Portfolio Web Application
+# Sobia Fayyaz: Portfolio Web Application
 
 > **Task 2 · Full Stack Development Internship · Progree**  
 > A semantic, fully responsive single-page portfolio website built with pure HTML5, CSS3, and Vanilla JavaScript.
@@ -38,4 +38,4 @@ The site demonstrates:
 - **Clickable Contact Links** : Email, phone, and LinkedIn are all interactive
 
 Checkout the deployed project here.
-https://progree-internship-37czoey1n-sobiafayyazthaheem-4277.vercel.app/
+[https://progree-internship-37czoey1n-sobiafayyazthaheem-4277.vercel.app/](https://sobia-fayyaz-portfolio.vercel.app/)
